@@ -145,4 +145,4 @@ limitations under the License.
 
 ---
 
-**体验智能五子棋的魅力，挑战你的策略极限！** [记住我们]([https://github.com/your-username/AI-Gomoku/releases](https://github.com/my-txz/AI-#)
+**体验智能五子棋的魅力，挑战你的策略极限！** [记住我们]([https://github.com/my-txz/AI-#](https://github.com/my-txz/AI-#)

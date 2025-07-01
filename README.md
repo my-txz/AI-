@@ -79,6 +79,9 @@ for dr, dc in [(1,0),(0,1),(1,1),(1,-1)]:
 
 ### 安装步骤
 ```bash
+#Github 命令行
+gh repo clone my-txz/AI-
+
 # 克隆仓库
 git clone https://github.com/your-username/AI-Gomoku.git
 cd AI-Gomoku
@@ -112,7 +115,7 @@ python AI_Gomoku.py --difficulty hell
 本项目采用 [Apache License 2.0](LICENSE) 开源协议，在保护代码权益的同时允许商业使用：
 
 ```text
-Copyright 2023 Your Name
+Copyright 2023 my-txz
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
